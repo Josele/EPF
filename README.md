@@ -11,13 +11,16 @@ Topic --> threads --> (Post + Commentaries). Where:
 -	Thread (Name, author, Sticky, rating, last replied, replies, views, state (open, closed, moved)
 -	Post (Name, date, author, last edited and by who, text)
 -	Commentaries (same structure as before)
+
 The potential of this data are the questions that we can answer form it, here are some examples:
+
 -	Are new users from Switzerland or others countries, what do they look for in this forum, which is the average of active members compared with new members. How do they evolve in the forum?
 -	Are the most active members relevant I the forum, or just spammers.
 -	Finding which are the most important topics in the forum, are they relevant topics for daily life?
 -	A lot of relations taking a count the different topics (Market: is it a good place for selling? What kind of things are sold? ...)
 -	Is this website growing or it is stuck and dying?
 -	How the social events affect in the forum?
+
 ## Feasibility & Risks
 
 ### Feasibility	
