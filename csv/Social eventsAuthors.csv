@@ -1,19 +1,19 @@
 	topic	thread	user	views	replies	location	date	post	user_posts	since	exp	thanked	groaned	reputation
-0	Social events	FAQ : How to Create a Recurring Event	mirfield	6,884	0	Location: Basel	07.02.2013, 10:12	                                            	Posts: 8,245	Join Date: Apr 2007	Moddy McModface	Groaned at 52 Times in 46 Posts	Thanked 8,186 Times in 2,988 Posts	a reputation beyond repute
-1	Social events	Poker Thread	Swiss Cheddar	49,864	206	Location: Zug	10.06.2008, 11:15	" 
+0	Social events	FAQ : How to Create a Recurring Event	mirfield	6,884	0	Basel	07.02.2013, 10:12	                                            	8245	 Apr 2007	8.0	['52', '46']	['8', '186', '2', '988']	6.0
+1	Social events	Poker Thread	Swiss Cheddar	49,864	206	Zug	10.06.2008, 11:15	" 
 			
 			I also know a lot of people/players and host around once a month but only ever invitational small games 6 people.    
 Most wouldnt add themselves on the list but would come adhoc
-		"	Posts: 2,080	Join Date: Jan 2008	Forum Veteran	Groaned at 45 Times in 29 Posts	Thanked 2,896 Times in 1,184 Posts	a reputation beyond repute
-2	Social events	Duplicate Calendar Entries - a known bug	Nanda	10,392	0	Location: Zurich	05.06.2007, 18:15	" 
+		"	2080	 Jan 2008	5.0	['45', '29']	['2', '896', '1', '184']	6.0
+2	Social events	Duplicate Calendar Entries - a known bug	Nanda	10,392	0	Zurich	05.06.2007, 18:15	" 
 			
 			Occasionally you might spot duplicated calendar entries, for example the drinks nights starts Wednesday evening and continue through until Thursday night. Wow, well, maybe not many of us are capable of going for that long, but in fact it's an error in the forum, to do with the way it handles Daylight Savings Time.    
 Simply put, if you create an event that ends at 23.00 or later, then the calendar view might think that it continues into the following day. To avoid this, please click on the option ""Maintain same time by ignoring DST"" when creating the event.    
 You can also go and edit events to correct this, but this action will erase any RSVP entries.    
 This issue has been logged and will be fixed soonish.   
 Note: This only occurs occasionally.
-		"	Posts: 813	Join Date: May 2005	Forum Veteran	Groaned at 2 Times in 1 Post	Thanked 168 Times in 114 Posts	earned the respect of many
-3	Social events	Organising an event? _READ THIS FIRST_	Nanda	14,160	0	Location: Zurich	03.06.2007, 15:14	" 
+		"	813	 May 2005	5.0	['2', '1']	['168', '114']	3.0
+3	Social events	Organising an event? _READ THIS FIRST_	Nanda	14,160	0	Zurich	03.06.2007, 15:14	" 
 			
 			Here are the guidelines for posting events.        
 The first thing to do is to decide whether it's a social or commercial event. In short, if you're organising a get together and not charging for it, then it's probably a social event. If you're advertising your business, charging a fee or hoping to sell something, then it's a  .    
@@ -31,51 +31,51 @@ Post your event ahead of time - don't be disappointed if you advertise something
 If you plan on attending – use the RSVP function and say so on the thread. When other people see that others are planning to attend they may also be encouraged to attend - don't keep your desire to attend a secret!   
 If you have attended then use the thread to post some feedback. This will help create a better event next time.   
 In case you have further questions, feel free to post your question here.
-		"	Posts: 813	Join Date: May 2005	Forum Veteran	Groaned at 2 Times in 1 Post	Thanked 168 Times in 114 Posts	earned the respect of many
-4	Social events	(Ruschlikon, Sports, Park Im Gruene, Ruschlikon) Zürich Hash House Horrors Run #32 | 29.01.2017 12:00 -  19:00	null	166	0	null	null	null	null	null	null	null	null	null
-5	Social events	(Okra, Lorraine, Bern, Dinner, Okra, Lorrainestrasse 9, 3013 Bern) Bern Dinner Club, Indian meal at the Okra, 3013 Bern | 17.01.2017 19:00 -  21:30	3Wishes	582	1	Location: Bern area	08.01.2017, 16:10	" 
+		"	813	 May 2005	5.0	['2', '1']	['168', '114']	3.0
+4	Social events	(Ruschlikon, Sports, Park Im Gruene, Ruschlikon) Zürich Hash House Horrors Run #32 | 29.01.2017 12:00 -  19:00	null	166	0	null	1.1.0001, 00:00	null		 Jun 0001		[]	[]	
+5	Social events	(Okra, Lorraine, Bern, Dinner, Okra, Lorrainestrasse 9, 3013 Bern) Bern Dinner Club, Indian meal at the Okra, 3013 Bern | 17.01.2017 19:00 -  21:30	3Wishes	582	1	Bern area	08.01.2017, 16:10	" 
 			
-			Any Bern-area peeps want to join us for the next dinner club?   "	Posts: 6,529	Join Date: Jul 2010	Moderately Amused	Groaned at 43 Times in 39 Posts	Thanked 9,178 Times in 4,360 Posts	a reputation beyond repute
-6	Social events	Is there a photo club in Lausanne or Geneve	OneFasTT996	1,488	3	Location: Vaud	20.04.2010, 18:42	"    Thanks! I'll check it out.
-		"	Posts: 123	Join Date: Jul 2008	Member	Groaned at 0 Times in 0 Posts	Thanked 80 Times in 27 Posts	no particular reputation at present
-7	Social events	Possible oxymoron: INTJ social group in Zurich???	Ttamasle	3,858	42	Location: ZH, AaA	06.10.2014, 22:45	" 
+			Any Bern-area peeps want to join us for the next dinner club?   "	6529	 Jul 2010	8.0	['43', '39']	['9', '178', '4', '360']	6.0
+6	Social events	Is there a photo club in Lausanne or Geneve	OneFasTT996	1,488	3	Vaud	20.04.2010, 18:42	"    Thanks! I'll check it out.
+		"	123	 Jul 2008	3.0	['0', '0']	['80', '27']	0.0
+7	Social events	Possible oxymoron: INTJ social group in Zurich???	Ttamasle	3,858	42	ZH, AaA	06.10.2014, 22:45	" 
 			
 			I started answering the questions but got bored after the first six and gave up.   
 What letters do I get?
-		"	Posts: 765	Join Date: Dec 2011	Forum Veteran	Groaned at 6 Times in 4 Posts	Thanked 894 Times in 325 Posts	a reputation beyond repute
-8	Social events	(Zürich, Coffee/Chat, Stall 6, Gessnerallee 8, 8001 Zürich) German Conversation Group Zürich | 07.01.2016 18:30 - 30.12.2016 20:30	twiggy	132,178	445	Location: Zurich	27.01.2011, 23:37	"     
-If you organize meetings during the weekend I could be interested ...   "	Posts: 77	Join Date: May 2007	Junior Member	Groaned at 0 Times in 0 Posts	Thanked 14 Times in 12 Posts	no particular reputation at present
-9	Social events	(Basel, Coffee/Chat, Tibits, Stänzlergasse 4, 4051 Basel) Basel new/expectant mums meet-up | 28.06.2014 14:30 -  16:30	MrsSerendipity	2,287	14	Location: Basel	10.05.2014, 13:58	" 
+		"	765	 Dec 2011	5.0	['6', '4']	['894', '325']	6.0
+8	Social events	(Zürich, Coffee/Chat, Stall 6, Gessnerallee 8, 8001 Zürich) German Conversation Group Zürich | 07.01.2016 18:30 - 30.12.2016 20:30	twiggy	132,178	445	Zurich	27.01.2011, 23:37	"     
+If you organize meetings during the weekend I could be interested ...   "	77	 May 2007	2.0	['0', '0']	['14', '12']	0.0
+9	Social events	(Basel, Coffee/Chat, Tibits, Stänzlergasse 4, 4051 Basel) Basel new/expectant mums meet-up | 28.06.2014 14:30 -  16:30	MrsSerendipity	2,287	14	Basel	10.05.2014, 13:58	" 
 			
 			Is this still going on? I will be part of the ""demographics"" for the next 3 months or so :-)
-		"	Posts: 1,659	Join Date: Jan 2011	Forum Veteran	Groaned at 12 Times in 9 Posts	Thanked 1,416 Times in 704 Posts	a reputation beyond repute
-10	Social events	(Baden, Drinks/Bar, Mr. Pickwick Pub, Löwenplatz 8) Monthly drinks in Baden | 01.01.2014 20:00 - 31.12.2017 00:00	an-gina	17,012	71	Location: Aargau	22.02.2014, 14:41	" 
+		"	1659	 Jan 2011	5.0	['12', '9']	['1', '416', '704']	6.0
+10	Social events	(Baden, Drinks/Bar, Mr. Pickwick Pub, Löwenplatz 8) Monthly drinks in Baden | 01.01.2014 20:00 - 31.12.2017 00:00	an-gina	17,012	71	Aargau	22.02.2014, 14:41	" 
 			
 			Sarah, eh? I guess that kind of makes more sense, although I must say I preferred Zero.   
 It really was a bad connection.   
 (wish I was there)
-		"	Posts: 81	Join Date: May 2013	Junior Member	Groaned at 0 Times in 0 Posts	Thanked 88 Times in 31 Posts	considered knowledgeable
-11	Social events	Board Games Evening Zurich	Flutterby	6,771	73	Location: Zürich	23.07.2012, 00:03	" 
+		"	81	 May 2013	2.0	['0', '0']	['88', '31']	4.0
+11	Social events	Board Games Evening Zurich	Flutterby	6,771	73	Zürich	23.07.2012, 00:03	" 
 			
 			I'm a little further away, but I would definitely try to make it if this happens!
-		"	Posts: 129	Join Date: Nov 2007	Member	Groaned at 0 Times in 0 Posts	Thanked 17 Times in 15 Posts	no particular reputation at present
-12	Social events	(Geneva, Drinks/Bar, L'Equinoxe, rue Pont-Neuf 9, Carouge) Drinks Meet-Up.  Geneva | 16.12.2016	null	593	0	null	null	null	null	null	null	null	null	null
-13	Social events	(Zurich, Coffee/Chat, D-Vino, Schützengasse 12) Zurich Book Club - Fifth Business by Robertson Davies | 02.03.2014 17:00 -  19:00	venice	2,514	17	Location: zurich	29.01.2014, 08:45	" 
+		"	129	 Nov 2007	3.0	['0', '0']	['17', '15']	0.0
+12	Social events	(Geneva, Drinks/Bar, L'Equinoxe, rue Pont-Neuf 9, Carouge) Drinks Meet-Up.  Geneva | 16.12.2016	null	593	0	null	1.1.0001, 00:00	null		 Jun 0001		[]	[]	
+13	Social events	(Zurich, Coffee/Chat, D-Vino, Schützengasse 12) Zurich Book Club - Fifth Business by Robertson Davies | 02.03.2014 17:00 -  19:00	venice	2,514	17	zurich	29.01.2014, 08:45	" 
 			
 			There's two that I know of: 
 1. Meetup:   
 2. Internations:   
 I might organise one myself and will post here when I do.
-		"	Posts: 707	Join Date: Jul 2011	Forum Veteran	Groaned at 11 Times in 5 Posts	Thanked 688 Times in 353 Posts	a reputation beyond repute
-14	Social events	(Wall Street, Bern, Dinner, Arirang, Wallgasse 5, 3011 Bern) Bern Dinner Club, Korean restaurant Tuesday 8th November | 08.11.2016 19:00 -  21:30	lost_inbroad	967	10	Location: Town or region	20.10.2016, 20:02	"    I'll be working till 6, so probably closer to 6:30.
-		"	Posts: 10,213	Join Date: Dec 2009	Unbridled Mod	Groaned at 571 Times in 369 Posts	Thanked 13,064 Times in 5,206 Posts	a reputation beyond repute
-15	Social events	Any moms of 2 and 4 year olds living in Seen Winterthur?	wintimiss	340	1	Location: Winterthur-Seen	03.11.2016, 23:31	" 
+		"	707	 Jul 2011	5.0	['11', '5']	['688', '353']	6.0
+14	Social events	(Wall Street, Bern, Dinner, Arirang, Wallgasse 5, 3011 Bern) Bern Dinner Club, Korean restaurant Tuesday 8th November | 08.11.2016 19:00 -  21:30	lost_inbroad	967	10	Town or region	20.10.2016, 20:02	"    I'll be working till 6, so probably closer to 6:30.
+		"	10213	 Dec 2009	8.0	['571', '369']	['13', '064', '5', '206']	6.0
+15	Social events	Any moms of 2 and 4 year olds living in Seen Winterthur?	wintimiss	340	1	Winterthur-Seen	03.11.2016, 23:31	" 
 			
-			maybe join this group    "	Posts: 40	Join Date: Sep 2011	Junior Member	Groaned at 0 Times in 0 Posts	Thanked 6 Times in 6 Posts	no particular reputation at present
-16	Social events	Bülach Bier Keller This Evening 27.10	swissrob	409	0	Location: Bülach	27.10.2016, 12:07	" 
+			maybe join this group    "	40	 Sep 2011	2.0	['0', '0']	['6', '6']	0.0
+16	Social events	Bülach Bier Keller This Evening 27.10	swissrob	409	0	Bülach	27.10.2016, 12:07	" 
 			
 			If you live in Bülach then you may want to come and participate in a beer or two at the Craft Bier Keller tonight in the main square.     
  Sean a rather talented muscian from Ireland will playing, mostly folk style I gather but he did a great version of ""This is the One"" by the Stone Roses at a wedding recently!! Hopefully he will play it again tonight?     
 I believe it starts around 20.00     
 Apart from Sean and one other person I dont anybody, so dont be shy and come and say hello, Its only a little place so should be easy to pick us out!
-		"	Posts: 390	Join Date: Jan 2010	Senior Member	Groaned at 7 Times in 6 Posts	Thanked 380 Times in 174 Posts	earned the respect of many
+		"	390	 Jan 2010	4.0	['7', '6']	['380', '174']	3.0
