@@ -7,19 +7,29 @@ This web forum does the same paper than reddit but on Switterland. The website a
 ## Data
 As any forum, a lot of information is well organized and can be easily obtain by following a reusable pattern. As an example:
 Topic --> threads --> (Post + Commentaries). Where:
--	Topics (Name, viewing, last post, threads, posts)
--	Thread (Name, author, Sticky, rating, last replied, replies, views, state (open, closed, moved)
--	Post (Name, date, author, last edited and by who, text)
--	Commentaries (same structure as before)
+Data structure:
+  - Thread: Name of the thread.
+  - User: Creator of the thread.
+  - Views: Number of views of that thread
+  - Replies: Number of replies in that thread
+  - Location: Location of the user
+  - Date: Date of creation of the thread
+  - Posts: All posts of each thread
+  - User_posts:
+  - Since: Date of registration of the user
+  - Exp: Level of experience of the user.
+  - Thanked: Number of times been thanked of each user
+  - Groaned: Number of times been groaned of each user
+  - Reputation: Level of reputation of the user.
 
 The potential of this data are the questions that we can answer form it, here are some examples:
 
 -	Are new users from Switzerland or others countries, what do they look for in this forum, which is the average of active members compared with new members. How do they evolve in the forum?
 -	Are the most active members relevant I the forum, or just spammers.
 -	Finding which are the most important topics in the forum, are they relevant topics for daily life?
--	A lot of relations taking a count the different topics (Market: is it a good place for selling? What kind of things are sold? ...)
 -	Is this website growing or it is stuck and dying?
 -	How the social events affect in the forum?
+- Some Text mining.
 
 ## Feasibility & Risks
 
